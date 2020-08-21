@@ -1,0 +1,17 @@
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\bin\Debug\netcoreapp3.1\Sample.exe
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\bin\Debug\netcoreapp3.1\Sample.deps.json
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\bin\Debug\netcoreapp3.1\Sample.runtimeconfig.json
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\bin\Debug\netcoreapp3.1\Sample.runtimeconfig.dev.json
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\bin\Debug\netcoreapp3.1\Sample.dll
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\bin\Debug\netcoreapp3.1\Sample.pdb
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\bin\Debug\netcoreapp3.1\DotLiquid.dll
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\bin\Debug\netcoreapp3.1\it\DotLiquid.resources.dll
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\obj\Debug\netcoreapp3.1\Sample.csprojAssemblyReference.cache
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\obj\Debug\netcoreapp3.1\Sample.AssemblyInfoInputs.cache
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\obj\Debug\netcoreapp3.1\Sample.AssemblyInfo.cs
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\obj\Debug\netcoreapp3.1\Sample.csproj.CoreCompileInputs.cache
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\obj\Debug\netcoreapp3.1\Sample.csproj.CopyComplete
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\obj\Debug\netcoreapp3.1\Sample.dll
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\obj\Debug\netcoreapp3.1\Sample.pdb
+C:\Users\camil\Workspaces\liquid-template-engine-sample\Sample\obj\Debug\netcoreapp3.1\Sample.genruntimeconfig.cache

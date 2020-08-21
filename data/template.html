@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <p><b>Nome: </b>{{person.firstname}}</p>
+        <p><b>CPF: </b>{{person.cpf}}</p>
+        <p><b>Nascimento: </b>{{person.nascimento}} {{tasks[0].summary}}</p>
+        <ol>
+            {% for item in tasks %}
+            <li>{{ item }}</li>
+            {% endfor %}
+        </ol>
+    </body>
+</html>
