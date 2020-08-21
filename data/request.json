@@ -1,0 +1,13 @@
+﻿{
+  "person": {
+    "name": "Teste"
+  },
+  "items": [
+    {
+      "name": "Item A"
+    },
+    {
+      "name": "Item B"
+    }
+  ]
+}
